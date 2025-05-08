@@ -4,7 +4,7 @@
 
 ## 📚 Full documentation
 
-See the [Vibe Security Suite Docs – Bot](https://github.com/vibe-security/vibe-security-suite/blob/main/docs-site/docs/intro.md) for full usage and configuration details.
+See the [Vibe Security Suite Docs – Bot](https://vibe-security.github.io/vibe-security-suite/docs/intro) for full usage and configuration details.
 
 ## Setup
 
