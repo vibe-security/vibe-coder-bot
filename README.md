@@ -2,6 +2,10 @@
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that Find, fix and prevent known vulnerabilities for vibe coding.
 
+## 📚 Full documentation
+
+See the [Vibe Security Suite Docs – Bot](https://github.com/vibe-security/vibe-security-suite/blob/main/docs-site/docs/intro.md) for full usage and configuration details.
+
 ## Setup
 
 ```sh
